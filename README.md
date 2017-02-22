@@ -5,5 +5,5 @@ For at installere en bundle, kan du blot downloade en fil nedenfor og place den 
 Pt. kan du hente følgende bundles her:
 
 | Bundle              | Beskrivelse                                             |
-|---------------------|---------------------------------------------------------|
+|:--------------------|:--------------------------------------------------------|
 | _ingen endnu_       | _de er på vej..._                                       |
