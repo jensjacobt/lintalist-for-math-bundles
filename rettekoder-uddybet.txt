@@ -1,6 +1,6 @@
 ﻿BundleFormat: 1
 Name: Rettekoder
-Description: Rettekoder til matematik (fra bogen MATHIT fra matematiklærerforeningen)
+Description: Rettekoder til matematik (fra bogen MATHIT fra matematiklærerforeningen) med uddybninger til udvalgte kommentarer.
 Author: jensjacobt
 TitleMatch: 
 Patterns:
