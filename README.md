@@ -4,6 +4,10 @@ For at installere en bundle, kan du blot downloade en fil nedenfor og place den 
 ## Tilgængelige bundles
 Pt. kan du hente følgende bundles her:
 
-| Bundle              | Beskrivelse                                             |
-|:--------------------|:--------------------------------------------------------|
-| _ingen endnu_       | _de er på vej..._                                       |
+| Bundle                 | Beskrivelse                                        |
+|:-----------------------|:---------------------------------------------------|
+| korrekthed.txt         | Dine "flueben og minustegn" til Lintalist for Math.|
+| maple.txt              | Rettelser til brugen af Maple (med henblik på hensigtsmæssig brug af Maple til opgaveløsning og kommentérbarhed). |
+| rettekoder-ren.txt     | Rettekoder til matematik (fra bogen MATHIT fra matematiklærerforeningen) |
+| rettekoder-uddybet.txt | Rettekoder til matematik (fra bogen MATHIT fra matematiklærerforeningen) |
+| ros.txt                | Eksempler på elementer, der ofte kunne roses for i slutkommentarer (eller undervejs) i en aflevering. |

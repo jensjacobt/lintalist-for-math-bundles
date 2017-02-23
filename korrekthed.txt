@@ -1,6 +1,6 @@
 ﻿BundleFormat: 1
 Name: Korrekthed
-Description: 
+Description: Dine "flueben og minustegn" til Lintalist for Math.
 Author: jensjacobt
 TitleMatch: 
 Patterns:
