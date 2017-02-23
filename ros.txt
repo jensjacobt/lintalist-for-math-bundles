@@ -1,0 +1,102 @@
+﻿BundleFormat: 1
+Name: Ros
+Description: Eksempler på elementer, der ofte kunne roses for i slutkommentarer (eller undervejs) i en aflevering.
+Author: TH
+TitleMatch: 
+Patterns:
+- LLPart1: God forklarende tekst.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godtek
+  LLScript: 
+- LLPart1: God brug af notation.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godnot
+  LLScript: 
+- LLPart1: God brug af kendte metoder i løsning af opgaverne.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godmet
+  LLScript: 
+- LLPart1: God mængde mellemregninger.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godmel
+  LLScript: 
+- LLPart1: God brug af figurer.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godfig
+  LLScript: 
+- LLPart1: Godt og overskueligt layout.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godlay
+  LLScript: 
+- LLPart1: God tydelighed og fremhævning i konklusioner.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godkon
+  LLScript: 
+- LLPart1: Passende afrundinger i slutresultater.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godafr
+  LLScript: 
+- LLPart1: Godt at der gøres prøve ved ligningsløsning.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godpr
+  LLScript: 
+- LLPart1: Godt at formlerne opskrives med korrekte bogstaver, inden der indsættes talværdier.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godbog
+  LLScript: 
+- LLPart1: Godt svaret med tekst i opgaver, der omhandler virkeligheden.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godss
+  LLScript: 
+- LLPart1: God sikkerhed i løsningsmetode og udregninger.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godsik
+  LLScript: 
+- LLPart1: Godt at der gøres rede for, hvilke forudsætninger der anvendes.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godfor
+  LLScript: 
+- LLPart1: Godt at der fortælles, hvad x og f(x) betegner, når en funktion opstilles.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godiv
+  LLScript: 
+- LLPart1: God forklarende tekst ved brug af solve-kommandoen.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godsol
+  LLScript: 
+- LLPart1: God fremhævning af facitter.
+`
+  LLPart2: 
+  LLKey: 
+  LLShorthand: godfac
+  LLScript: 

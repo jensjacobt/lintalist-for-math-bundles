@@ -1,0 +1,174 @@
+﻿BundleFormat: 1
+Name: Korrekthed
+Description: 
+Author: jensjacobt
+TitleMatch: 
+Patterns:
+- LLPart1: [[underline=Rigtigt.]] `
+  LLPart2: 
+  LLKey: ^!r
+  LLShorthand: 
+  LLScript: KeyWait Control ; For sikkerhed. Disse linjer skal stemme med genvejen.
+Keywait Alt
+SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^uRigtigt.^m `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, Rigtigt.
+	Sleep, 150
+	SendInput, ^u `
+}
+- LLPart1: [[underline=Rigtig metode]] (med forkerte tal for tidligere opgaver). `
+  LLPart2: 
+  LLKey: ^!m
+  LLShorthand: 
+  LLScript: KeyWait Control ; For sikkerhed. Disse linjer skal stemme med genvejen.
+Keywait Alt
+SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^uRigtig metode^m (med forkerte tal for tidligere opgaver). `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, Rigtig metode
+	Sleep, 150
+	SendInput, ^u (med forkerte tal for tidligere opgaver). `
+}
+- LLPart1: [[underline=(Rigtigt).]] `
+  LLPart2: 
+  LLKey: +!r
+  LLShorthand: 
+  LLScript: Keywait Alt    ; For sikkerhed. Disse linjer skal stemme med genvejen.
+Keywait Shift
+SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^u(Rigtigt.)^m `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, (Rigtigt.)
+	Sleep, 150
+	SendInput, ^u `
+}
+- LLPart1: [[underline=Delvist rigtigt.]] `
+  LLPart2: 
+  LLKey: ^!d
+  LLShorthand: 
+  LLScript: KeyWait Control ; For sikkerhed. Disse linjer skal stemme med genvejen.
+Keywait Alt
+SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^uDelvist rigtigt.^m `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, Delvist rigtigt.
+	Sleep, 150
+	SendInput, ^u `
+}
+- LLPart1: [[underline=På vej.]] `
+  LLPart2: 
+  LLKey: ^!v
+  LLShorthand: 
+  LLScript: KeyWait Control ; For sikkerhed. Disse linjer skal stemme med genvejen.
+Keywait Alt
+SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^uPå vej.^m `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, På vej.
+	Sleep, 150
+	SendInput, ^u `
+}
+- LLPart1: [[underline=Forkert.]] `
+  LLPart2: 
+  LLKey: ^!f
+  LLShorthand: 
+  LLScript: KeyWait Control ; For sikkerhed. Disse linjer skal stemme med genvejen.
+Keywait Alt
+SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^uForkert.^m `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, Forkert.
+	Sleep, 150
+	SendInput, ^u `
+}
+- LLPart1: [[underline=Rigtigt/forkert.]] `
+  LLPart2: 
+  LLKey: 
+  LLShorthand: fr
+  LLScript: SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^uRigtigt/forkert.^m `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, Rigtigt/forkert.
+	Sleep, 150
+	SendInput, ^u `
+}
+- LLPart1: [[underline=Nemlig.]] `
+  LLPart2: 
+  LLKey: ^!n
+  LLShorthand: 
+  LLScript: KeyWait Control ; For sikkerhed. Disse linjer skal stemme med genvejen.
+Keywait Alt
+SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^uNemlig.^m `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, Nemlig.
+	Sleep, 150
+	SendInput, ^u `
+}
+- LLPart1: [[underline=Godt.]] `
+  LLPart2: 
+  LLKey: ^!g
+  LLShorthand: 
+  LLScript: KeyWait Control ; For sikkerhed. Disse linjer skal stemme med genvejen.
+Keywait Alt
+SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^uGodt.^m `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, Godt.
+	Sleep, 150
+	SendInput, ^u `
+}
+- LLPart1: [[underline=Point:]] `
+  LLPart2: 
+  LLKey: ^!p
+  LLShorthand: 
+  LLScript: KeyWait Control ; For sikkerhed. Disse linjer skal stemme med genvejen.
+Keywait Alt
+SetTitleMatchMode, 2
+IfWinActive, - Maple ahk_class SunAwtFrame
+	SendInput, ^m^uPoint:^m `
+Else
+{
+	SendInput, ^u
+	Sleep, 150
+	SendInput, Point:
+	Sleep, 150
+	SendInput, ^u `
+}

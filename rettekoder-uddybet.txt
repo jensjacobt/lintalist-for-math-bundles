@@ -1,0 +1,136 @@
+﻿BundleFormat: 1
+Name: Rettekoder
+Description: Rettekoder til matematik (fra bogen MATHIT fra matematiklærerforeningen)
+Author: jensjacobt
+TitleMatch: 
+Patterns:
+- LLPart1: Regnefejl, herunder fortegnsfejl
+  LLPart2: 
+  LLKey: 
+  LLShorthand: RF
+  LLScript: 
+- LLPart1: Uhensigtsmæssigt valg af metode
+  LLPart2: 
+  LLKey: 
+  LLShorthand: UM
+  LLScript: 
+- LLPart1: Uhensigtsmæssig sammenblandig af symboler og tekst
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ST
+  LLScript: 
+- LLPart1: Uhensigtsmæssig sammenblandig af symboler og tekst - her er lighedstegn blandet med tekst
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ST2
+  LLScript: 
+- LLPart1: Uhensigtsmæssig sammenblandig af symboler og tekst - her er lighedstegn blandet med tekst. Når man blander lighedstegn og tekst bliver det næsten altid uklart, hvad der præcist menes, da det ikke er til at se, hvor stor en del af teksten, der er lig med noget andet.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ST3
+  LLScript: 
+- LLPart1: Notationsfejl
+  LLPart2: 
+  LLKey: 
+  LLShorthand: NF
+  LLScript: 
+- LLPart1: Notationsfejl (dvs. fejl i symbolske udtryk)
+  LLPart2: 
+  LLKey: 
+  LLShorthand: NF2
+  LLScript: 
+- LLPart1: Manglende forklaring
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MFKL
+  LLScript: 
+- LLPart1: Manglende forklaring
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MF
+  LLScript: 
+- LLPart1: Manglende forklaring på, hvordan du er kommet frem til resultatet
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MF2
+  LLScript: 
+- LLPart1: Manglende forklaring på, hvad der regnes på nedenfor.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MF3
+  LLScript: 
+- LLPart1: Manglende argumentation
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MARG
+  LLScript: 
+- LLPart1: Manglende argumentation
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MA
+  LLScript:
+- LLPart1: Manglende argumentation. Husk at det er vigtigt, at du formulerer besvarelsen, så læseren kan følge din tankegang.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MA2
+  LLScript: 
+- LLPart1: Manglende grafer
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MG
+  LLScript: 
+- LLPart1: Maskinsprog (f.eks kun solve-ligninger)
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MS
+  LLScript: 
+- LLPart1: Manglende dokumentation for resultat
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MD
+  LLScript: 
+- LLPart1: Manglende konklusion, da opgaven omhandler en situation udenfor matematik.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MK
+  LLScript: 
+- LLPart1: Manglende konklusion. Husk at bruge dit resultat i en konklusion, der med ord svarer på opgaven. Overvej afrunding.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MK2
+  LLScript: 
+- LLPart1: Manglende konklusion. Husk at bruge dit resultat i en konklusion, der med ord svarer på opgaven, da opgaven omhandler et område virkeligheden. Overvej afrunding.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MK3
+  LLScript: 
+- LLPart1: Manglende indledende tekst eller forbindende tekst
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MT
+  LLScript: 
+- LLPart1: Manglende tekst. Du skal lave en kort indledende tekst til opgaven, dvs. et relevant uddrag af opgaveformuleringen, som læseren skal kende.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MT2
+  LLScript: 
+- LLPart1: Manglende tekst. Du skal lave en forbindende tekst, så det bliver klart, hvad der regnes på (og hvorfor) undervejs.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MT3
+  LLScript: 
+- LLPart1: Resultattjek mangler
+  LLPart2: 
+  LLKey: 
+  LLShorthand: RT
+  LLScript: 
+- LLPart1: Dårligt sprog (dvs. uklar brug af matematiske termer)
+  LLPart2: 
+  LLKey: 
+  LLShorthand: DS
+  LLScript: 
+- LLPart1: Misforstår spørgsmålet
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ??
+  LLScript: 

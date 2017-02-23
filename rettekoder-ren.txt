@@ -1,0 +1,86 @@
+﻿BundleFormat: 1
+Name: Rettekoder
+Description: Rettekoder til matematik (fra bogen MATHIT fra matematiklærerforeningen)
+Author: jensjacobt
+TitleMatch: 
+Patterns:
+- LLPart1: Regnefejl, herunder fortegnsfejl
+  LLPart2: 
+  LLKey: 
+  LLShorthand: RF
+  LLScript: 
+- LLPart1: Uhensigtsmæssigt valg af metode
+  LLPart2: 
+  LLKey: 
+  LLShorthand: UM
+  LLScript: 
+- LLPart1: Uhensigtsmæssig sammenblandig af symboler og tekst
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ST
+  LLScript: 
+- LLPart1: Notationsfejl
+  LLPart2: 
+  LLKey: 
+  LLShorthand: NF
+  LLScript: 
+- LLPart1: Manglende forklaring
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MFKL
+  LLScript: 
+- LLPart1: Manglende forklaring
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MF
+  LLScript: 
+- LLPart1: Manglende argumentation
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MARG
+  LLScript: 
+- LLPart1: Manglende argumentation
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MA
+  LLScript:
+- LLPart1: Manglende grafer
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MG
+  LLScript: 
+- LLPart1: Maskinsprog (f.eks kun solve-ligninger)
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MS
+  LLScript: 
+- LLPart1: Manglende dokumentation for resultat
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MD
+  LLScript: 
+- LLPart1: Manglende konklusion, da opgaven omhandler en situation udenfor matematik.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MK
+  LLScript: 
+- LLPart1: Manglende indledende tekst eller forbindende tekst
+  LLPart2: 
+  LLKey: 
+  LLShorthand: MT
+  LLScript: 
+- LLPart1: Resultattjek mangler
+  LLPart2: 
+  LLKey: 
+  LLShorthand: RT
+  LLScript: 
+- LLPart1: Dårligt sprog (dvs. uklar brug af matematiske termer)
+  LLPart2: 
+  LLKey: 
+  LLShorthand: DS
+  LLScript: 
+- LLPart1: Misforstår spørgsmålet
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ??
+  LLScript: 

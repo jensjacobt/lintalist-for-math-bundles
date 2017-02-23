@@ -1,0 +1,88 @@
+﻿BundleFormat: 1
+Name: Maple
+Description: Rettelser til brugen af Maple (med henblik på hensigtsmæssig brug af Maple til opgaveløsning og kommentérbarhed).
+Author: jensjacobt
+TitleMatch: 
+Patterns:
+- LLPart1: Skriv altid matematiske udtryk i math-mode.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: mm
+  LLScript: 
+- LLPart1: Skriv aldrig almindelig tekst i math-mode.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ejmath
+  LLScript: 
+- LLPart1: Skriv aldrig almindelig tekst i math-mode. (Lær at skifte hurtigt mellem text-mode og math-mode vha. tastaturgenveje eller knappen over skriveområdet. 
+Tastaturgenveje: 
+Mac: 
+cmd+r for at skifte til math-mode
+cmd+t for at skifte til text-mode
+PC:
+Ctrl+r for at skifte til math-mode
+Ctrl+t for at skifte til text-mode
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ejmath2
+  LLScript: 
+  - LLPart1: Skriv altid punktum i decimaltal i Maple. Når man altid bruger punktum i decimaltal, så bliver det nemlig meget nemmere at bruge Maple til udregninger.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ejkomma
+  LLScript: 
+- LLPart1: Undgå at skrive flere linjer i samme matematik-kasse i Maple. Så er det ikke til at skrive kommentarer mellem linjerne. Brug i stedet cmd+shift+j til at skifte til næste linje på mac, eller ctrl+shift+j til at skifte til næste linje på pc.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ejshift
+  LLScript: 
+- LLPart1: Undgå at ændre skriftstørrelsen. Brug zoom-knapperne i stedet. (Ellers kommer teksten nemt til at se alt for stor ud i PDF-dokument eller på print.)
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ejskrift
+  LLScript: 
+- LLPart1: Undgå at trykke enter, efter du har skrevet noget i Maple, som du ikke vil udregne. Brug i stedet cmd+shift+j til at skifte til næste linje på mac, eller ctrl+shift+j til at skifte til næste linje på pc.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ejenter
+  LLScript: 
+- LLPart1: Tryk alt+enter for at få resultatet lige efter det du selv skriver (hvor der er lighedstegn mellem input og output). Det ville gøre ovenstående endnu mere overskueligt.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: altenter
+  LLScript: 
+- LLPart1: Det er endnu smartere at bruge punktum-fidusen: Skriv blot decimalpunktum i et af tallene, så kommer svaret (stort set altid) ud som decimaltal.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: punktum
+  LLScript: 
+- LLPart1: Sæt kolon efter en kommando, når du ikke ønsker at se output. Det er f.eks. praktisk at skrive with(Gym):
+  LLPart2: 
+  LLKey: 
+  LLShorthand: brugkolon
+  LLScript: 
+- LLPart1: Undgå at indsætte store billeder (f.eks. direkte fra kameraet) i Maple. Det giver meget store filer, som det tager lang tid for Maple at gemme. Tag i stedet et skærmklip af billedet, som du så indsætter i Maple.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ejbillede
+  LLScript: 
+- LLPart1: 1-taller og 2-taller i denne formel skal stå med sænket skrift.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ettal
+  LLScript: 
+- LLPart1: 1-taller og 2-taller i denne formel skal stå med sænket skrift. Skriv f.eks.   y _ _ 1  for at få skrevet y med et sænket 1-tal efter. Brug højrepil på tastaturet for at komme op på linjen igen.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ettal2
+- LLPart1: Da I skal aflevere i PDF, hvis I kommer til skriftlige prøver og eksamener, så er der kommet et forbud mod at lave sektioner (de afsnit der kan foldes sammen) i Maple. Derfor skal I fremover lave alle afleveringer uden brug af sektioner.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: ejsek
+  LLScript: 
+- LLPart1: Bemærk, at der skal afleveres i PDF-format til prøver og eksamen, som vi har snakket om på klassen. Find ud af, hvordan det gøres så snart som muligt.
+  LLPart2: 
+  LLKey: 
+  LLShorthand: pdfmust
+  LLScript: 
+  LLScript: 
